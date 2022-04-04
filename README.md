@@ -1,3 +1,2 @@
-#magic srawl leak
-magic srawl leak!!!
-illka gg sucks
+magic srawl leak!!!!
+illka gg lox
