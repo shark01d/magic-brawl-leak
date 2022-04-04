@@ -1,0 +1,4 @@
+tinydb
+colorama
+pymongo
+dnspython
